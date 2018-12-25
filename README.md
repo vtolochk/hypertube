@@ -4,10 +4,15 @@ Hypertube is a torrent downloading/streaming web app that allows users to resear
 
 ## Preview
 ![](./preview/mainpage.png)
+___
 ![](./preview/search.png)
+___
 ![](./preview/searchFeatures.png)
+___
 ![](./preview/movie.png)
+___
 ![](./preview/settings.png)
+___
 
 ## Getting Started
 
